@@ -1,4 +1,4 @@
-This is the forked repository. To visit the original repo where the development procedure was done go here [Health-Bee](https://github.com/asif-saad/Health-Bee) .
+This is the forked repository. To visit the original repo where the development procedure was done click here [Health-Bee](https://github.com/asif-saad/Health-Bee) .
 
 # Health-Bee
 The app Health-Bee is a blood pressure and heart rate management app that utilises the usuage of technology in order to treat patients more professionally and efficiently. The app has been made as user friendly as possible and suitable for all ages.
